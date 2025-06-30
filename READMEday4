@@ -1,0 +1,39 @@
+## 💉 Day 4: Pharmacy Immunization Tracker v1.0
+
+A command-line Python application designed to streamline and validate the vaccine administration process in a pharmacy setting. This project reinforces foundational Python concepts including:
+
+- 📥 User input
+- ✅ Input validation
+- 🧠 Conditional logic
+- 🔁 Loops
+- 📦 Dictionaries
+- 📋 List management
+- ⚙️ Function creation
+- 🧪 Boolean logic (`True/False` operations)
+
+---
+
+### 🧾 Description
+
+This tool collects data for each patient vaccinated in a day, including:
+- Name
+- Age
+- Appointment status
+- Vaccine type
+- Vaccine stock availability
+
+It then determines eligibility based on:
+- Age (must be 18+)
+- Appointment presence
+- Vaccine availability
+
+Finally, it summarizes and reports how many patients received vaccinations.
+
+---
+
+### 🚀 How to Run
+
+Make sure you have Python installed, then run the script from your terminal:
+
+```bash
+python day4_finalchallenge.py
