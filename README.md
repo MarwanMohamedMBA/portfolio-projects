@@ -8,6 +8,7 @@ I am an MBA Graduate with an Associate degree in Computer Science and a Bachelor
 ## Current Projects
 - **hello.py** — My first Python script, verifying setup and basic output.
 - **day1_python_basics.ipynb** — Jupyter notebook covering Python fundamentals: variables, math, and basic logic.
+- **day2_functions.ipynb** - jupyter notebook covering python functions.
 
 ## Tools & Technologies
 - Python 3 (via Anaconda)
