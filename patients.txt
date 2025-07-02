@@ -1,0 +1,23 @@
+Patient Name: marwan
+Age: 23
+Has Appointment: Yes
+Eligible: Yes
+Vaccines:
+  - covid on 2025-03-02
+  - flu on 2025-09-08
+
+Patient Name: marwan
+Age: 23
+Has Appointment: Yes
+Eligible: Yes
+Vaccines:
+  - flu on 2025-03-02
+  - covid on 2025-09-08
+
+Patient Name: anna
+Age: 25
+Has Appointment: No
+Eligible: Yes
+Vaccines:
+  - shingles on 2025-09-08
+
