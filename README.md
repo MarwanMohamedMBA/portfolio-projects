@@ -19,9 +19,10 @@ I’m an MBA graduate with an Associate degree in Computer Science and a Bachelo
 | 2   | `day2_functions.ipynb`         | Function declarations, return values, user input, and eligibility logic.                                    |
 | 3   | `day3_lists_loops.ipynb`       | Introduces `for` and `while` loops, `if/else`, and list iteration.                                          |
 | 4   | `day4_final_challenge.py`      | Immunization Tracker CLI v1.0: Multi-patient workflow with loops and validation.                            |
-| 5   | `day5_nested_validation.ipynb` | Builds on Day 4 with nested loops and expanded input validation for age, vaccine doses, and formatting.     |
+| 5   | `day5_dictionaries_cont.ipynb` | Builds on Day 4 with nested loops and expanded input validation for age, vaccine doses, and formatting.     |
+|     |                                |  Create Pharmacy_Immz_trackerV2.0
 | 6   | `day6_FileHandling.ipynb`      | Adds file I/O to store patient vaccination logs in `patients.txt`; enables optional log review per patient. |
-
+|     |                                | Major updates to immunizations tracker where it now stores patient entries in patients.txt                  | 
 ---
 
 ## 🛠 Tools & Technologies
