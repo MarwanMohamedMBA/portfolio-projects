@@ -1,0 +1,25 @@
+[
+    {
+        "name": "John Doe",
+        "age": 34,
+        "has_appointment": true,
+        "vaccine_count": 2,
+        "vaccines": [
+            {
+                "name": "Pfizer",
+                "date": "2023-06-01"
+            },
+            {
+                "name": "Pfizer",
+                "date": "2023-07-01"
+            }
+        ]
+    },
+    {
+        "name": "Jane Smith",
+        "age": 29,
+        "has_appointment": false,
+        "vaccine_count": 0,
+        "vaccines": []
+    }
+]

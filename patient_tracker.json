@@ -1,0 +1,20 @@
+[
+    {
+        "name": "marwan",
+        "age": 19,
+        "has_appointment": true,
+        "is_eligible": true,
+        "can_vaccinate": true,
+        "vaccine_count": 0,
+        "vaccines": []
+    },
+    {
+        "name": "anna",
+        "age": 19,
+        "has_appointment": true,
+        "is_eligible": true,
+        "can_vaccinate": true,
+        "vaccine_count": 0,
+        "vaccines": []
+    }
+]
